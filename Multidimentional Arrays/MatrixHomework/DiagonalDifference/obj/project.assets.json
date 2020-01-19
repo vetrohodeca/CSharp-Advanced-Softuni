@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\MatrixHomework\\DiagonalDifference\\DiagonalDifference.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Multidimentional Arrays\\MatrixHomework\\DiagonalDifference\\DiagonalDifference.csproj",
       "projectName": "DiagonalDifference",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\MatrixHomework\\DiagonalDifference\\DiagonalDifference.csproj",
+      "projectPath": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Multidimentional Arrays\\MatrixHomework\\DiagonalDifference\\DiagonalDifference.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\MatrixHomework\\DiagonalDifference\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Multidimentional Arrays\\MatrixHomework\\DiagonalDifference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
