@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\text.txt
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\bin\Debug\netcoreapp3.0\Even Lines.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\obj\Debug\netcoreapp3.0\Even Lines.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\obj\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ConsoleApp1\obj\Debug\netcoreapp3.0\Even Lines.pdb

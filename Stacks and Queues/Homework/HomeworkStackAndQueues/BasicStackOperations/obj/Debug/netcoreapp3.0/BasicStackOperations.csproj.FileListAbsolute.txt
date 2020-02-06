@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.pdb

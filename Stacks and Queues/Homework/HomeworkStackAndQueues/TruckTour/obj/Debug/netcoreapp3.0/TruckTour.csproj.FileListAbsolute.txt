@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.pdb

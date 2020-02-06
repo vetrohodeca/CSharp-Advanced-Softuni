@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\bin\Debug\netcoreapp3.0\DirectoryTraversal.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\obj\Debug\netcoreapp3.0\DirectoryTraversal.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\obj\Debug\netcoreapp3.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\obj\Debug\netcoreapp3.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\obj\Debug\netcoreapp3.0\DirectoryTraversal.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\DirectoryTraversal\obj\Debug\netcoreapp3.0\DirectoryTraversal.pdb

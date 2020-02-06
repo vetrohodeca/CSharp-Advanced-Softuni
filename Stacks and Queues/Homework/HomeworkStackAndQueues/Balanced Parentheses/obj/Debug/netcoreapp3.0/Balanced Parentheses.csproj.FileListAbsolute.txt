@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.pdb

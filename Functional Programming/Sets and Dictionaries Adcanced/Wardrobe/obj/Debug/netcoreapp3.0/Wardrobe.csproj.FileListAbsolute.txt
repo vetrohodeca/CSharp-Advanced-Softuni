@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Functional Programming\Sets and Dictionaries Adcanced\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.pdb

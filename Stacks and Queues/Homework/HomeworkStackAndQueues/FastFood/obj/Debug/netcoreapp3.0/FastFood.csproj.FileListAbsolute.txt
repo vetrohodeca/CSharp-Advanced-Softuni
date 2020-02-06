@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\bin\Debug\netcoreapp3.0\FastFood.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\obj\Debug\netcoreapp3.0\FastFood.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\obj\Debug\netcoreapp3.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\obj\Debug\netcoreapp3.0\FastFood.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\obj\Debug\netcoreapp3.0\FastFood.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Stacks and Queues\Homework\HomeworkStackAndQueues\FastFood\obj\Debug\netcoreapp3.0\FastFood.pdb

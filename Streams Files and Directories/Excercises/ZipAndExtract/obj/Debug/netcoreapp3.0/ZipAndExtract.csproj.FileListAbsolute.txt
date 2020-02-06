@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\ZipAndExtract.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\obj\Debug\netcoreapp3.0\ZipAndExtract.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\obj\Debug\netcoreapp3.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\obj\Debug\netcoreapp3.0\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\obj\Debug\netcoreapp3.0\ZipAndExtract.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\obj\Debug\netcoreapp3.0\ZipAndExtract.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Streams Files and Directories\Excercises\ZipAndExtract\bin\Debug\netcoreapp3.0\copyMe.png
