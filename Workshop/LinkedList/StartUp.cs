@@ -1,11 +1,16 @@
 ﻿using System;
 namespace LinkedList
 {
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DoublyLinkedList doublyLingedList = new DoublyLinkedList();
+            for(int i=0;i<3;i++)
+            {
+                doublyLingedList.AddFirst(2);
+            }
         }
     }
 }
+

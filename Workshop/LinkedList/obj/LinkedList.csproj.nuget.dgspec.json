@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\Workshop\\LinkedList\\LinkedList.csproj": {}
+    "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Workshop\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\Workshop\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Workshop\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Workshop\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Workshop\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\Workshop\\LinkedList\\LinkedList.csproj",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Workshop\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\Workshop\\LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\C# Advanced Softuni\\Workshop\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
