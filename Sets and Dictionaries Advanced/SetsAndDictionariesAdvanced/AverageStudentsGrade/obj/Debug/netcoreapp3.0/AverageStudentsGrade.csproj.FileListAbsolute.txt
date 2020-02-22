@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\netcoreapp3.0\AverageStudentsGrade.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\netcoreapp3.0\AverageStudentsGrade.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\netcoreapp3.0\AverageStudentsGrade.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\netcoreapp3.0\AverageStudentsGrade.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\netcoreapp3.0\AverageStudentsGrade.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\netcoreapp3.0\AverageStudentsGrade.pdb

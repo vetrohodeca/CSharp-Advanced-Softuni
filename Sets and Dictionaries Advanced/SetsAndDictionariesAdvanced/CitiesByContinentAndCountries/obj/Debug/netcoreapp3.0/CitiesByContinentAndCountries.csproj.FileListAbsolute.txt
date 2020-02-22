@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\bin\Debug\netcoreapp3.0\CitiesByContinentAndCountries.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\obj\Debug\netcoreapp3.0\CitiesByContinentAndCountries.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\obj\Debug\netcoreapp3.0\CitiesByContinentAndCountries.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\obj\Debug\netcoreapp3.0\CitiesByContinentAndCountries.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\obj\Debug\netcoreapp3.0\CitiesByContinentAndCountries.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountries\obj\Debug\netcoreapp3.0\CitiesByContinentAndCountries.pdb

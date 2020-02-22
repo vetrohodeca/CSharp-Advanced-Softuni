@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.exe
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.deps.json
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.runtimeconfig.json
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.dll
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\bin\Debug\netcoreapp3.0\Space Station Establishment.pdb
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\obj\Debug\netcoreapp3.0\Space Station Establishment.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\obj\Debug\netcoreapp3.0\Space Station Establishment.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\obj\Debug\netcoreapp3.0\Space Station Establishment.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\obj\Debug\netcoreapp3.0\Space Station Establishment.dll
+C:\Users\Alex\source\repos\ExamPrepMeOne\Space Station Establishment\obj\Debug\netcoreapp3.0\Space Station Establishment.pdb

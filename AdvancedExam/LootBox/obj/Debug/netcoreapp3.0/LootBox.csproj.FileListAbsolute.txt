@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.exe
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.deps.json
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.runtimeconfig.json
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.dll
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\bin\Debug\netcoreapp3.0\LootBox.pdb
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\obj\Debug\netcoreapp3.0\LootBox.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\obj\Debug\netcoreapp3.0\LootBox.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\obj\Debug\netcoreapp3.0\LootBox.AssemblyInfo.cs
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\obj\Debug\netcoreapp3.0\LootBox.dll
+C:\Users\Alex\Desktop\AdvancedExam\LootBox\obj\Debug\netcoreapp3.0\LootBox.pdb

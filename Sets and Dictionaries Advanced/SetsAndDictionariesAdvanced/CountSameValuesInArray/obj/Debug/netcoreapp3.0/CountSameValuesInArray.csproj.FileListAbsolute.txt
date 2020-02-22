@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.0\CountSameValuesInArray.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.0\CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.0\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.0\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.0\CountSameValuesInArray.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.0\CountSameValuesInArray.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.exe
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.deps.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.runtimeconfig.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\bin\Debug\netcoreapp3.0\RecordUniqueSettings.pdb
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\obj\Debug\netcoreapp3.0\RecordUniqueSettings.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\obj\Debug\netcoreapp3.0\RecordUniqueSettings.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\obj\Debug\netcoreapp3.0\RecordUniqueSettings.dll
+C:\Users\Alex\source\repos\C# Advanced Softuni\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\RecordUniqueSettings\obj\Debug\netcoreapp3.0\RecordUniqueSettings.pdb

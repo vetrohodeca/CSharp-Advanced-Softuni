@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\obj\Debug\netcoreapp3.0\Re-Volt.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\obj\Debug\netcoreapp3.0\Re-Volt.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\obj\Debug\netcoreapp3.0\Re-Volt.AssemblyInfo.cs
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.exe
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.deps.json
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.runtimeconfig.json
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.dll
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\bin\Debug\netcoreapp3.0\Re-Volt.pdb
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\obj\Debug\netcoreapp3.0\Re-Volt.dll
+C:\Users\Alex\Desktop\AdvancedExam\Re-Volt\obj\Debug\netcoreapp3.0\Re-Volt.pdb
